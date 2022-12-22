@@ -1,5 +1,5 @@
 /**
- * Author: Cole Thomas
+ * Author: CT
  * Last Modified: 2022.12.07
  *
  * This program uses Spark to perform various analytical tasks against The Tempest by Shakespeare.
